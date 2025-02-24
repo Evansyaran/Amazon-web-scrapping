@@ -1,7 +1,7 @@
 # Amazon Web Scraping Guide
  # Overview
 
-This project demonstrates how to scrape product details from Amazon, including title, price, and reviews, using Python libraries like BeautifulSoup, Requests, and Selenium.
+In This project I  demonstrated how to scrape product details from Amazon, including title, price, and reviews, using Python libraries like BeautifulSoup, Requests, and Selenium.
 
 ⚠ Important: Amazon has strict anti-scraping policies. Always follow ethical guidelines and consider using Amazon’s Product Advertising API for legitimate data access.
 # Features
@@ -16,7 +16,7 @@ This project demonstrates how to scrape product details from Amazon, including t
 
 # Installation
 
-Ensure you have Python installed, then install the required libraries:
+I installed the required libraries:
 
 pip install requests beautifulsoup4 selenium
 # Usage
